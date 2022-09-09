@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-backend server=  json-server db.json --port 8080 --watch
-frontend server=  npm start
+# Backend server=  json-server db.json --port 8080 --watch
+# frontend server=  npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
