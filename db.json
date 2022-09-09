@@ -1,0 +1,13 @@
+{
+  "details": [
+    {
+      "vehicleName": "car",
+      "parkingSlot": "3",
+      "vehicleNumber": "ap33 A 7234",
+      "dateOfParking": "2022-09-09",
+      "vehicletype": "fourWheeler",
+      "Outlets": "",
+      "id": 3
+    }
+  ]
+}
